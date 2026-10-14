@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/fragment_search.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/activity_login.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/custom_textbox.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/custom_textbox.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/product_item.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/activity_main.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/order_item.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/order_item.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/fragment_profile.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/fragment_home.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/fragment_cart.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/activity_order.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/activity_order.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/cart_item.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-2:/layout/activity_register.xml",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/activity_register.xml"
+    }
+]

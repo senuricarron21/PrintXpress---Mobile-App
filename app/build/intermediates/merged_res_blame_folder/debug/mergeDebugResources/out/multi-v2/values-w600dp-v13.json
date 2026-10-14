@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.Printxpress_hdcse_131_10.app-mergeDebugResources-1:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Senuri Uni\\3rd Sem\\3rd Sem Assingments\\MAD\\st20339045_CSE5011_WRIT1\\PrintXpressProject_131_10 - Upload\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

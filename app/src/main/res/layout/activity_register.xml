@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:layout_marginBottom="20dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+
+
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:drawableStart="@drawable/baseline_email_24"
+        android:hint="    Enter Email"
+        android:minWidth="48dp"
+        android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/edtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:drawableStart="@drawable/person_24dp_1f1f1f_fill0_wght400_grad0_opsz24"
+            android:hint="    Full Name"
+            android:inputType="text"
+            android:minWidth="48dp"
+            android:minHeight="48dp" />
+
+
+
+        <EditText
+            android:id="@+id/edtPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:drawableStart="@drawable/call_24dp_1f1f1f_fill0_wght400_grad0_opsz24"
+            android:hint="    Phone Number"
+            android:inputType="phone"
+            android:minWidth="48dp"
+            android:minHeight="48dp" />
+
+
+
+        <EditText
+            android:id="@+id/edtPwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:drawableStart="@drawable/password_24dp_1f1f1f_fill0_wght400_grad0_opsz24"
+            android:hint="    Password"
+            android:inputType="textPassword"
+            android:minWidth="48dp"
+            android:minHeight="48dp"/>
+
+
+        <EditText
+            android:id="@+id/edtConPwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:layout_marginTop="15dp"
+            android:drawableStart="@drawable/password_24dp_1f1f1f_fill0_wght400_grad0_opsz24"
+            android:hint="    Confirm Password"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            />
+
+
+    <Button
+        android:id="@+id/btRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:backgroundTint="@android:color/background_dark"
+        android:text="Register" />
+
+    <TextView
+        android:id="@+id/tvBack"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="12dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="12dp"
+        android:text="Back to Login"
+        android:textSize="16sp"/>
+
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtLoginPrintXpress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login To PrintXpress"
+        android:textStyle="bold"
+        android:textColor="#524"
+        android:layout_gravity="center"
+        android:textSize="30sp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginTop="25dp"
+        />
+
+    <EditText
+        android:id="@+id/edtemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:minWidth="20dp"
+        android:minHeight="48dp"
+        />
+
+    <EditText
+        android:id="@+id/edtpassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:hint="password"
+        android:inputType="textPassword"
+        android:layout_marginTop="25dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:minWidth="20dp"
+        android:minHeight="48dp"
+        />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="@android:color/background_dark"
+        android:text="login" />
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="250dp"
+        android:text="Don't have an account ?" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="185dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@android:color/background_dark"
+        android:layout_marginTop="5dp"
+        android:text="Register"
+        />
+
+</LinearLayout>

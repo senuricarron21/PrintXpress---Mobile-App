@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_20200122_wa0044.jpg.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_20200122_wa0044.jpg"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_password_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/password_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_call_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/call_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_fragment_cart.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/menu_bottom_nav.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_circle.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_cart_item.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_main_pic.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_main_pic.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_fragment_search.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_cz_banner.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_cz_banner.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_md_banner.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_md_banner.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_activity_register.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_activity_order.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/activity_order.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_product_item.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_bw_bc.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_bw_bc.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_home_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/home_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_laser_bc.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/laser_bc.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_activity_login.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_a3_flyer.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_a3_flyer.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_order_item.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/order_item.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_a5_flyer.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_a5_flyer.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_activity_main.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_person_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/person_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_a4_flyer.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_a4_flyer.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_sm_banner.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_sm_banner.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/xml_backup_rules.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_fragment_profile.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_fragment_home.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_search_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/search_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_lrg_banner.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_lrg_banner.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_shopping_cart_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/shopping_cart_24dp_1f1f1f_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/drawable_img_color_bc.png.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/drawable/img_color_bc.png"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/layout_custom_textbox.xml.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/layout/custom_textbox.xml"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Printxpress_hdcse_131_10.app-debug-3:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.Printxpress_hdcse_131_10.app-main-5:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
